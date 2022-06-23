@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.580677eb.css",
+    "main.js": "/static/js/main.3d1ef3fb.js",
+    "static/media/mashu_fgo2.png": "/static/media/mashu_fgo2.e4ba4396cc48d0db2358.png",
+    "static/media/Lamp_Ref_2021.png": "/static/media/Lamp_Ref_2021.981a0b7e765673350523.png",
+    "static/media/amiya2.png": "/static/media/amiya2.1e06b1b1aeb6dbf62e6f.png",
+    "static/media/Aoi.png": "/static/media/Aoi.76c403f9495bb7b1e9d2.png",
+    "static/media/hwa2022.jpg": "/static/media/hwa2022.6d365ccec6840aa36316.jpg",
+    "static/media/elaine2022.png": "/static/media/elaine2022.c3119651e047d7018f8f.png",
+    "static/media/hwa2021.png": "/static/media/hwa2021.47bdf104945a253a0370.png",
+    "static/media/Maria_XDrive_XV.jpg": "/static/media/Maria_XDrive_XV.021d9f78e19202dfa74e.jpg",
+    "static/media/elaine2017.jpg": "/static/media/elaine2017.eea286a393d333044822.jpg",
+    "static/media/twitter_logo.png": "/static/media/twitter_logo.27cda7bdfce3369a30e8.png",
+    "index.html": "/index.html",
+    "main.580677eb.css.map": "/static/css/main.580677eb.css.map",
+    "main.3d1ef3fb.js.map": "/static/js/main.3d1ef3fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580677eb.css",
+    "static/js/main.3d1ef3fb.js"
+  ]
+}
